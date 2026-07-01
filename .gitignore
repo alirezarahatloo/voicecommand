@@ -2,5 +2,4 @@ __pycache__/
 *.pyc
 *.tflite
 *.npz
-*.wav
 dataset/**/*.wav
